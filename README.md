@@ -5,12 +5,16 @@ recorded in 15min intervals over one 24hr period.
 
 ## Key Outputs
 
-- [Presentation.pdf](9_presentation/Presentation.pdf)
+- [Presentation.pdf](9_presentations/Presentation.pdf)
 - [NetworkAnalysis.ipynb](5_python_scripts/NetworkAnalysis.ipynb)
 - [TrafficIntensityOverTime.gif](8_plots/TrafficIntensityOverTime.gif)
 
 Project and data provided by Satalia.
 
-<center><img src="../8_plots/TrafficIntensityOverTime.gif" alt="TrafficIntensityOverTime" style="width: 400px;"/></center>
+### Traffic Intensity over time
 
-<center><img src="../8_plots/graph.png" alt="neo4j" style="width: 400px;"/></center>
+<p align="center"><img src="8_plots/TrafficIntensityOverTime.gif" alt="TrafficIntensityOverTime" style="width: 400px;"/></p>
+
+### Section of road network visualised with Neo4j
+
+<p align="center"><img src="8_plots/graph.png" alt="neo4j" style="width: 400px;"/></p>
