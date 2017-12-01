@@ -1,9 +1,9 @@
 # Config and metadata
-^.ipynb_checkpoints$
-^.Rproj.user$
-^.DS_Store$
-^.RData$
-^.Rhistory$
+.ipynb_checkpoints/
+.Rproj.user/
+*.DS_Store
+*.RData
+*.Rhistory
 
 # Proprietary data files
 *.dbf
@@ -13,6 +13,7 @@
 *.shx
 *.zip
 *.csv
+1_grass_database/Dublin/
 
 # GRASS Workspace
 *.gxw
